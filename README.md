@@ -1,4 +1,4 @@
-[Overview](assets/images/bg.png)
+[Background](/assets/images/bg.png)
 
 # Newsletter Sign-up Form with Success Message
 
